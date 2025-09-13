@@ -1,4 +1,4 @@
-<!-- src/components/Presentacion.vue -->
+
 <template>
   <div class="presentacion-card">
     <h1>{{ titulo }}</h1>
